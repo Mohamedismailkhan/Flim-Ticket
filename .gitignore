@@ -1,0 +1,15 @@
+# Java
+*.class
+# Log files
+*.log
+# Temporary files
+*.tmp
+# IDE files
+/.idea/
+/*.iml
+# Build directories
+/target/
+/build/
+# Application properties
+/application.properties
+/application.yml
